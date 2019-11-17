@@ -8,7 +8,7 @@ git clone https://github.com/Rahajustone/Eccomerce-Template.git
 ```
 
 ### Design
-!(screenshots/screen.gif)
+![](screenshots/screen.gif)
 
 ## Built With
 
