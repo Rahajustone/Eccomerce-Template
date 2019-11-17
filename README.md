@@ -17,7 +17,7 @@ git clone https://github.com/Rahajustone/Eccomerce-Template.git
 
 ## Authors
 
-* **Rahmatullo Kholov** - *Just sample work* - [PurpleBooth](https://github.com/Rahajustone)
+* **Rahmatullo Kholov** - *Just sample work* - [Rahmatullo Kholov](https://github.com/Rahajustone)
 
 ## License
 
